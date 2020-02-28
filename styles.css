@@ -1,0 +1,131 @@
+*{
+    margin: none;
+    padding: none;
+}
+
+body{
+    background-color: black;
+}
+
+.text{
+    position: absolute;
+    left: 700px;
+    top: 50px;
+    font-size: 50px;
+    font-family: helvetica;
+    font-weight: bolder;
+    color: white;
+}
+
+.self{
+    width: 194px;
+    fill:#595d73;
+}
+
+.hobby{
+    width: 224px;
+    position: absolute;
+    left: 202px;
+    top: 161px;
+}
+
+.name{
+    width: 197px;
+    position: absolute;
+    left: 202px;
+    top: 75px;
+}
+
+.nickname{
+    width: 183px;
+    position: absolute;
+    left: 399px;
+    top: 75px;
+}
+
+.birthplace{
+    width: 151px;
+    position: absolute;
+    left: 355.5px;
+    top: 161px;
+}
+
+.bday{
+    width: 156px;
+    position: absolute;
+    left: 315px;
+    top: 206px;
+}
+
+.family{
+    width: 157px;
+    position: absolute;
+    left: 424.5px;
+    top: 219px;
+}
+
+.accomplish{
+    width: 225px;
+    position: absolute;
+    top: 310px;
+}
+
+.role{
+    width: 158px;
+    position: absolute;
+    left: 233px;
+    top: 310px;
+}
+
+.places{
+    width: 350px;
+    position: absolute;
+    left: 233px;
+    top: 310px;
+}
+
+.never{
+    width: 84px;
+    position: absolute;
+    top: 310px;
+}
+
+.where{
+    width: 142.5px;
+    position: absolute;
+    left: 90px;
+    top: 392.5px;
+}
+
+.memory{
+    width: 225px;
+    position: absolute;
+    top: 534px;
+}
+
+.teacher{
+    width: 112px;
+    position: absolute;
+    top: 534px;
+}
+
+.child{
+    width: 290px;
+    position: absolute;
+    left: 120px;
+    top: 532px;
+}
+
+.pet{
+    width: 225px;
+    position: absolute;
+    left: 192px;
+    top: 373px;
+}
+
+.circle{
+    width: 350px;
+    position: absolute;
+    left: 234px;
+    top: 387px;
+}
